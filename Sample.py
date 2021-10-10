@@ -1,9 +1,9 @@
 # Python3 program to add two numbers
   
-num1 = 20
+num1 = 53
 num2 = 12
   
-# Adding two nos
+# Adding two numbers
 sum = num1 + num2
   
 # printing values
